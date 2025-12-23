@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+nltk
+bioc
+tensorflow
+transformers
+scikit-learn
+gradio
+plotly
+gdown
+pathlib2
+PyStanfordDependencies
