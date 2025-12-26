@@ -61,8 +61,7 @@ def construct_answer(tokens):
 def get_model_answer(question, passage):
     tokenizer, model = load_bert_model()
     
-    # Simple truncation if passage is too long for this specific demo logic
-    # In production, you might want sliding windows, but we stick to notebook logic
+ 
     max_seq_length = 384
     
     input_ids, input_mask, tokens = prepare_bert_input(question, passage, tokenizer, max_seq_length)
