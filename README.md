@@ -97,7 +97,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/YourUsername/Clinical-Report-Analyzer.git](https://github.com/YourUsername/Clinical-Report-Analyzer.git)
+git clone [https://github.com/AkshitSingh7/Clinical-Report-Analyzer.git](https://github.com/AkshitSingh7/Clinical-Report-Analyzer.git)
 cd Clinical-Report-Analyzer
 
 ```
