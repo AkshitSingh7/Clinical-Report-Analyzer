@@ -62,12 +62,12 @@ This project was built using a hybrid approach, leveraging **NegBio** for rule-b
 Clinical-Report-Analyzer/
 ├── app.py                   # Main application entry point (Gradio UI)
 ├── setup_env.py             # Script to download models & dependencies
-├── requirements.txt         # Python dependencies
+├── requirements.txt         
 ├── src/
 │   ├── preprocessing.py     # NLP logic: Text cleaning & NegBio
 │   └── model.py             # Deep Learning logic: BERT loader & inference
 ├── data/                    # Folder for example datasets
-└── README.md                # Project documentation
+└── README.md                
 
 ```
 
